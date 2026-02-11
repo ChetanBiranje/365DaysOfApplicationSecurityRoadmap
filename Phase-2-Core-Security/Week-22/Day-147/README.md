@@ -1,0 +1,82 @@
+# Day 147: Core Security Day 57
+## Phase 2: Core Security - Week 22
+
+---
+
+## 🎯 Today's Objectives
+
+**Day:** 147/365  
+**Phase:** 2/4  
+**Week:** 22  
+**Difficulty:** Intermediate  
+**Estimated Time:** 3-4 hours
+
+---
+
+## 📚 What You'll Learn Today
+
+[Content to be added based on specific day topic]
+
+---
+
+## 🎥 Video Tutorials
+
+**Recommended Videos:**
+1. [Video 1 title and link]
+2. [Video 2 title and link]
+3. [Video 3 title and link]
+
+---
+
+## 🔧 Hands-on Labs
+
+### Lab 1: [Lab Name]
+**Platform:** TryHackMe/HTB/PortSwigger  
+**Time:** 60 minutes  
+**Difficulty:** Intermediate
+
+**Steps:**
+1. [Step 1]
+2. [Step 2]
+3. [Step 3]
+
+---
+
+## 📝 Assignment
+
+1. Complete the hands-on lab
+2. Document your findings
+3. Update your learning journal
+4. Share progress on LinkedIn
+
+---
+
+## ✅ Checklist
+
+- [ ] Watched video tutorials
+- [ ] Completed hands-on labs
+- [ ] Took notes
+- [ ] Updated progress tracker
+- [ ] Shared on social media (optional)
+
+---
+
+## 🎯 Tomorrow Preview
+
+**Day 148:** [Next topic]
+
+---
+
+## 📌 Quick Links
+
+- [← Day 146](../Day-146/README.md)
+- [Day 148 →](../Day-148/README.md)
+- [Week 22 Overview](../README.md)
+- [Main Roadmap](../../../ROADMAP.md)
+- [Resources](../../../RESOURCES.md)
+- [Progress Tracker](../../../PROGRESS.md)
+
+---
+
+**Progress:** 147/365 days (40.3% complete!)  
+**Keep going! तुम्ही छान करत आहात! 💪**
