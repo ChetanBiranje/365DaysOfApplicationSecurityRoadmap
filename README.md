@@ -6,7 +6,6 @@
 ![Free](https://img.shields.io/badge/Cost-FREE-green)
 
 > **A complete 1-year roadmap to become a job-ready Application Security Engineer**  
-> **सं
 
 पूर्ण 1 वर्षाचा roadmap - Application Security Engineer बनण्यासाठी**
 
